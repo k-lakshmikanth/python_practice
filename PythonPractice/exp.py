@@ -1,0 +1,7 @@
+print("hello"+"world")
+print("hello "*3)
+print("hello"[-4])
+print("hello"<"jello")
+print("hello"[1:4])
+print(len("hello"))
+input()
