@@ -1,3 +1,2 @@
-def hw():
-	char_name="Lakshmikanth"
-	print("Hello "+char_name+".Enjoy python.")
+char="Lakshmikanth"
+print("Hello "+char_name+".Enjoy python.")
