@@ -1,2 +1,2 @@
 char="Lakshmikanth"
-print("Hello "+char_name+".Enjoy python.")
+print("Hello "+char+".Enjoy python.")
